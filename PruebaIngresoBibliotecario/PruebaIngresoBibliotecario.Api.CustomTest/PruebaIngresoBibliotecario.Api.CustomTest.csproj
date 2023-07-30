@@ -23,8 +23,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\PruebaIngresoBibliotecario.Api.csproj" />
-    <ProjectReference Include="..\PruebaIngresoBibliotecario\PruebaIngresoblibliotecario.Core\PruebaIngresoblibliotecario.Core.csproj" />
+    <ProjectReference Include="..\PruebaIngresoBibliotecario.Api\PruebaIngresoBibliotecario.Api.csproj" />
+    <ProjectReference Include="..\PruebaIngresoblibliotecario.Core\PruebaIngresoblibliotecario.Core.csproj" />
   </ItemGroup>
 
 </Project>
