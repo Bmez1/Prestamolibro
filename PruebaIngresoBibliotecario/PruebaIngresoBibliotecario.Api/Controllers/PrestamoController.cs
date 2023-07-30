@@ -55,6 +55,11 @@ namespace PruebaIngresoBibliotecario.Api.Controllers
             }
         }
 
+        /// <summary>
+        /// Finalidad: Actualiza el estado del prestamo de un libro
+        /// </summary>
+        /// <param name="prestamoInput"></param>
+        /// <returns></returns>
         [HttpPatch]
         public async Task<IActionResult> DevolverPrestamo([FromBody] DevolverPrestamoInput prestamoInput)
         {

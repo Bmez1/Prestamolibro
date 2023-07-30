@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaIngresoBibliotecario.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaIngresoblibliotecario.Core", "PruebaIngresoBibliotecario\PruebaIngresoblibliotecario.Core\PruebaIngresoblibliotecario.Core.csproj", "{45FDA004-2C3C-42A1-9832-1F3D86AE70BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaIngresoBibliotecario.Api.CustomTest", "PruebaIngresoBibliotecario.Api.CustomTest\PruebaIngresoBibliotecario.Api.CustomTest.csproj", "{D7FEB5FF-E75D-4550-ADE9-91470E128085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{45FDA004-2C3C-42A1-9832-1F3D86AE70BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FDA004-2C3C-42A1-9832-1F3D86AE70BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FDA004-2C3C-42A1-9832-1F3D86AE70BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FEB5FF-E75D-4550-ADE9-91470E128085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FEB5FF-E75D-4550-ADE9-91470E128085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FEB5FF-E75D-4550-ADE9-91470E128085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FEB5FF-E75D-4550-ADE9-91470E128085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
